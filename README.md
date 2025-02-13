@@ -12,7 +12,7 @@ git clone https://github.com/smit5217/smit_auth.git
 ### **2. Install Dependencies**  
 Navigate to the project folder and install required dependencies:  
 ```sh
-cd Base_auth
+cd smit_auth
 npm install
 ```
 

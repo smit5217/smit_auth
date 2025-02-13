@@ -6,7 +6,7 @@ Follow these steps to set up and run the project locally.
 
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/smit5217/Base_auth.git
+git clone https://github.com/smit5217/smit_auth.git
 ```
 
 ### **2. Install Dependencies**  
